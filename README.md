@@ -5,6 +5,8 @@ This is simple notes application. It was written in order to demonstrate how to 
 
 It makes use of the following project as backend [schemaless-demo](https://github.com/fjrd84/schemaless-demo). Open it and read the installation instructions and get the whole thing working.
 
+Read the [detailed description in my blog](http://www.jdonado.com/#/blog/observer-angular) for more information.
+
 ![alt tag](https://raw.githubusercontent.com/fjrd84/notes-app/master/doc/notes-app.png)
 
 ## Requirements 
