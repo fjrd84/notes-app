@@ -1,0 +1,34 @@
+.note{
+  background-color: $note-color;
+  color: $text-color;
+  border-radius: 2px 2px 20px 2px;
+  overflow: hidden;
+  float: left;
+  width: 220px;
+  padding: 20px;
+  height: 220px;
+  box-shadow: 2px 1px 4px 0px $text-color;
+  margin: 0 20px 10px 0;
+
+  &:hover{
+    background-image: url(../images/trash.png) ;
+    background-size: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+  .title{
+    font-size: 150%;
+    margin-bottom: 20px;
+    font-weight: 400;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  .text{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 10em;
+    white-space: pre-line;
+  }
+}

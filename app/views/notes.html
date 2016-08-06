@@ -1,0 +1,15 @@
+<div>
+    <h1>Notes App</h1>
+
+    <div>
+        <md-button ng-click="addNote()" aria-label="Add Note">
+            Add a Note
+        </md-button>
+    </div>
+    <div class="notes-container">
+        <note ng-repeat="note in mainCtrl.notes"
+              note-data="note"
+              ng-click="removeNote(note)">
+        </note>
+    </div>
+</div>

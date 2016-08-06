@@ -1,0 +1,320 @@
+[{
+	"_id": "579f7634b3e7b3e8de7597fb",
+	"name": "APG Paron",
+	"countrycode": "CH",
+	"street": "asdfasdf",
+	"gps": {
+		"latitude": "123",
+		"longitude": "1234"
+	},
+	"assembly": {
+		"name": "asfdasfasfd",
+		"email": "fjrd84@gmail.com",
+		"contactperson": "asdfasfd",
+		"timewindow": "asdf",
+		"tip": "asdfasdf",
+		"requested": true,
+		"skyworker": "42",
+		"noticeinadvance": "asdf",
+		"phone": "12341234"
+	},
+	"number": "12.1234",
+	"intersection": "123",
+	"postalcode": "4232",
+	"city": "2314",
+	"area": "1234",
+	"contactperson": "1234",
+	"location": "2341",
+	"position": "123",
+	"ownads": true,
+	"ownadsname": "123",
+	"remarks": "12",
+	"production": {
+		"inclination": true,
+		"width": "12",
+		"height": "23",
+		"inclinationHeight": "12",
+		"area": 348,
+		"quantity": "234",
+		"material": "airmesh",
+		"distribution": "vertical"
+	},
+	"print": {
+		"firstStage": "1234",
+		"information": "1234",
+		"railnumber": "1234",
+		"frame": {
+			"up": "1234",
+			"down": "432",
+			"left": "234",
+			"right": "432"
+		}
+	},
+	"readymade": {
+		"type": "obenseitkeder",
+		"special": "1231243",
+		"plan": true
+	},
+	"surfacetype": "folienbeklebung",
+	"constructiontype": "kederschienen",
+	"temporary": "fix",
+	"validfrom": "2016-08-15T22:00:00.000Z",
+	"validto": "2016-08-22T22:00:00.000Z",
+	"doubleside": true,
+	"railarea": true,
+	"subject1": "asdf",
+	"subject2": "asdfaf",
+	"illumination": {
+		"type": "yes",
+		"spotlight": "asdf",
+		"medium": "asdf",
+		"quantity": "12",
+		"provider": "123"
+	},
+	"inscription": {
+		"available": true,
+		"position": "horizontalright",
+		"format": "7.3x50"
+	},
+	"securitykeeper": true
+},
+{
+	"_id": "579f763cb3e7b3e8de7597fc",
+	"name": "APG Paron",
+	"countrycode": "CH",
+	"street": "asdfasdf",
+	"gps": {
+		"latitude": "123",
+		"longitude": "1234"
+	},
+	"assembly": {
+		"name": "asfdasfasfd",
+		"email": "fjrd84@gmail.com",
+		"contactperson": "asdfasfd",
+		"timewindow": "asdf",
+		"tip": "asdfasdf",
+		"requested": true,
+		"skyworker": "42",
+		"noticeinadvance": "asdf",
+		"phone": "12341234"
+	},
+	"number": "12.1234",
+	"intersection": "123",
+	"postalcode": "4232",
+	"city": "2314",
+	"area": "1234",
+	"contactperson": "1234",
+	"location": "2341",
+	"position": "123",
+	"ownads": true,
+	"ownadsname": "123",
+	"remarks": "12",
+	"production": {
+		"inclination": true,
+		"width": "12",
+		"height": "23",
+		"inclinationHeight": "12",
+		"area": 348,
+		"quantity": "234",
+		"material": "airmesh",
+		"distribution": "vertical"
+	},
+	"print": {
+		"firstStage": "1234",
+		"information": "1234",
+		"railnumber": "1234",
+		"frame": {
+			"up": "1234",
+			"down": "432",
+			"left": "234",
+			"right": "432"
+		}
+	},
+	"readymade": {
+		"type": "obenseitkeder",
+		"special": "1231243",
+		"plan": true
+	},
+	"surfacetype": "folienbeklebung",
+	"constructiontype": "kederschienen",
+	"temporary": "fix",
+	"validfrom": "2016-08-15T22:00:00.000Z",
+	"validto": "2016-08-22T22:00:00.000Z",
+	"doubleside": true,
+	"railarea": true,
+	"subject1": "asdf",
+	"subject2": "asdfaf",
+	"illumination": {
+		"type": "yes",
+		"spotlight": "asdf",
+		"medium": "asdf",
+		"quantity": "12",
+		"provider": "123"
+	},
+	"inscription": {
+		"available": true,
+		"position": "horizontalright",
+		"format": "7.3x50"
+	},
+	"securitykeeper": true
+},
+{
+	"_id": "579f763db3e7b3e8de7597fd",
+	"name": "APG Paron",
+	"countrycode": "CH",
+	"street": "asdfasdf",
+	"gps": {
+		"latitude": "123",
+		"longitude": "1234"
+	},
+	"assembly": {
+		"name": "asfdasfasfd",
+		"email": "fjrd84@gmail.com",
+		"contactperson": "asdfasfd",
+		"timewindow": "asdf",
+		"tip": "asdfasdf",
+		"requested": true,
+		"skyworker": "42",
+		"noticeinadvance": "asdf",
+		"phone": "12341234"
+	},
+	"number": "12.1234",
+	"intersection": "123",
+	"postalcode": "4232",
+	"city": "2314",
+	"area": "1234",
+	"contactperson": "1234",
+	"location": "2341",
+	"position": "123",
+	"ownads": true,
+	"ownadsname": "123",
+	"remarks": "12",
+	"production": {
+		"inclination": true,
+		"width": "12",
+		"height": "23",
+		"inclinationHeight": "12",
+		"area": 348,
+		"quantity": "234",
+		"material": "airmesh",
+		"distribution": "vertical"
+	},
+	"print": {
+		"firstStage": "1234",
+		"information": "1234",
+		"railnumber": "1234",
+		"frame": {
+			"up": "1234",
+			"down": "432",
+			"left": "234",
+			"right": "432"
+		}
+	},
+	"readymade": {
+		"type": "obenseitkeder",
+		"special": "1231243",
+		"plan": true
+	},
+	"surfacetype": "folienbeklebung",
+	"constructiontype": "kederschienen",
+	"temporary": "fix",
+	"validfrom": "2016-08-15T22:00:00.000Z",
+	"validto": "2016-08-22T22:00:00.000Z",
+	"doubleside": true,
+	"railarea": true,
+	"subject1": "asdf",
+	"subject2": "asdfaf",
+	"illumination": {
+		"type": "yes",
+		"spotlight": "asdf",
+		"medium": "asdf",
+		"quantity": "12",
+		"provider": "123"
+	},
+	"inscription": {
+		"available": true,
+		"position": "horizontalright",
+		"format": "7.3x50"
+	},
+	"securitykeeper": true
+},
+{
+	"_id": "579f763db3e7b3e8de7597fe",
+	"name": "APG Paron",
+	"countrycode": "CH",
+	"street": "asdfasdf",
+	"gps": {
+		"latitude": "123",
+		"longitude": "1234"
+	},
+	"assembly": {
+		"name": "asfdasfasfd",
+		"email": "fjrd84@gmail.com",
+		"contactperson": "asdfasfd",
+		"timewindow": "asdf",
+		"tip": "asdfasdf",
+		"requested": true,
+		"skyworker": "42",
+		"noticeinadvance": "asdf",
+		"phone": "12341234"
+	},
+	"number": "12.1234",
+	"intersection": "123",
+	"postalcode": "4232",
+	"city": "2314",
+	"area": "1234",
+	"contactperson": "1234",
+	"location": "2341",
+	"position": "123",
+	"ownads": true,
+	"ownadsname": "123",
+	"remarks": "12",
+	"production": {
+		"inclination": true,
+		"width": "12",
+		"height": "23",
+		"inclinationHeight": "12",
+		"area": 348,
+		"quantity": "234",
+		"material": "airmesh",
+		"distribution": "vertical"
+	},
+	"print": {
+		"firstStage": "1234",
+		"information": "1234",
+		"railnumber": "1234",
+		"frame": {
+			"up": "1234",
+			"down": "432",
+			"left": "234",
+			"right": "432"
+		}
+	},
+	"readymade": {
+		"type": "obenseitkeder",
+		"special": "1231243",
+		"plan": true
+	},
+	"surfacetype": "folienbeklebung",
+	"constructiontype": "kederschienen",
+	"temporary": "fix",
+	"validfrom": "2016-08-15T22:00:00.000Z",
+	"validto": "2016-08-22T22:00:00.000Z",
+	"doubleside": true,
+	"railarea": true,
+	"subject1": "asdf",
+	"subject2": "asdfaf",
+	"illumination": {
+		"type": "yes",
+		"spotlight": "asdf",
+		"medium": "asdf",
+		"quantity": "12",
+		"provider": "123"
+	},
+	"inscription": {
+		"available": true,
+		"position": "horizontalright",
+		"format": "7.3x50"
+	},
+	"securitykeeper": true
+}]

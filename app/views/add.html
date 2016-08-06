@@ -1,0 +1,32 @@
+<div>
+    <div layout="column" ng-cloak class="md-inline-form">
+        <md-content layout-padding>
+            <h1>Notes Editor</h1>
+            <form name="locationForm">
+                <div class="form-logic-group">
+                    <div layout-gt-xs="row">
+                        <md-input-container>
+                            <label>Title</label>
+                            <input ng-model="note.title"
+                                   name="note.title"
+                                   ng-required="true">
+                        </md-input-container>
+                    </div>
+                    <div layout-gt-xs="row">
+                        <md-input-container>
+                            <label>Text</label>
+                            <input ng-model="note.text"
+                                   name="note.text"
+                                   ng-required="text">
+                        </md-input-container>
+                    </div>
+                    <md-button class="md-raised"
+                               ng-click="addNotesCtrl.saveNote(note)">
+                        Save Note
+                    </md-button>
+                </div>
+            </form>
+        </md-content>
+    </div>
+</div>
+
