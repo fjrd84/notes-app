@@ -13,7 +13,7 @@ Read the [detailed description in my blog](http://www.jdonado.com/#/blog/observe
 
 In order to run this project, you need the following things installed globally in your machine:
 
-- [NodeJS (v6.2.0 or more)](https://nodejs.org/en/grun)
+- [NodeJS (v4.4.7 or more)](https://nodejs.org/en/grun)
 - [Grunt](http://gruntjs.com/installing-grunt)
 - [SASS](http://sass-lang.com/install)
 
